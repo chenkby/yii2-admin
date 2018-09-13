@@ -1,4 +1,4 @@
-RBAC Manager for Yii 2 - chenkby
+RBAC Manager for Yii 2 - chenkby(这个分支才是)
 ======================
 GUI manager for RABC (Role Base Access Control) Yii2. Easy to manage authorization of user :smile:.
 
